@@ -6,10 +6,12 @@
 ### Independent Security Research & CTF Operations Group
 
 <p align="center">
-  <br>
-  <strong>🌐 Public Verification & Global Ranking:</strong><br>
   <a href="https://ctftime.org/team/432750">
-    <img src="https://img.shields.io/badge/--%3E_CLICK_HERE_TO_OPEN_CTFTIME_PROFILE_---DD0000?style=for-the-badge&logo=target&logoColor=white" height="50" />
+    <kbd>
+      <br>
+      &nbsp;&nbsp;&nbsp; 🚀 CLICK TO OPEN OUR CTFTIME PROFILE&nbsp;&nbsp;&nbsp;
+      <br><br>
+    </kbd>
   </a>
 </p>
 

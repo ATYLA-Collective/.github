@@ -5,10 +5,13 @@
 # ATYLA Collective
 ### Independent Security Research & CTF Operations Group
 
-<p align="center">  
- <a href="https://ctftime.org/team/432750">
-  <img src="https://img.shields.io/static/v1?label=OFFICIAL&message=CTFTIME+PROFILE+➜&color=red&style=for-the-badge" height="40">
+<p align="center">
+  <br>
+  <strong>Official Verification & Global Ranking:</strong><br>
+  <a href="https://ctftime.org/team/432750">
+    <img src="https://img.shields.io/badge/CTFTIME-GO_TO_PROFILE_--%3E-red?style=for-the-badge&logo=target&logoColor=white" height="45">
   </a>
+  <br>
 </p>
 
 <p align="center">

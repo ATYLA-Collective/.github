@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Operations-success?style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/Focus-Adversarial%20Simulation-black?style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Focus-Adversarial%20Simulation-blue?style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Made%20In-Spain-yellow?style=for-the-badge" height="25" />
 </p>
 

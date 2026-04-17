@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ATYLA-Collective/.github/main/profile/atyla.jpg" width="150">
+<img src="https://raw.githubusercontent.com/ATYLA-Collective/.github/main/profile/atyla.png" width="150">
 
 # ATYLA Collective
 ### Independent Security Research & CTF Operations Group

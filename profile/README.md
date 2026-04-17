@@ -6,8 +6,8 @@
 ### Independent Security Research & CTF Operations Group
 
 <p align="center">  
-  <a href="https://ctftime.org/team/432750">
-   <img src="https://img.shields.io/badge/VIEW_TEAM_ON-CTFTIME-darkred?style=for-the-badge&logo=ctftime&logoColor=white" height="35" />
+ <a href="https://ctftime.org/team/432750">
+  <img src="https://img.shields.io/static/v1?label=OFFICIAL&message=CTFTIME+PROFILE+➜&color=red&style=for-the-badge" height="40">
   </a>
 </p>
 

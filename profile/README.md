@@ -1,15 +1,20 @@
 <div align="center">
 
-<img src="atyla.jpg" width="150">
+<img src="../atyla.jpg" width="150">
 
 # ATYLA Collective
 ### Independent Security Research & CTF Operations Group
 
 <p align="center">
   <a href="https://ctftime.org/team/432750">
-  <img src="https://img.shields.io/badge/Status-Active%20Operations-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Adversarial%20Simulation-darkred?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Made%20In:-Spain-yellow?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/CTFtime-Team_Profile-darkred?style=for-the-badge&logo=target" height="30" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active%20Operations-success?style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Focus-Adversarial%20Simulation-black?style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Made%20In-Spain-yellow?style=for-the-badge" height="25" />
 </p>
 
 *Dedicated to applied vulnerability research, low-level system exploitation, and competitive cybersecurity environments.*

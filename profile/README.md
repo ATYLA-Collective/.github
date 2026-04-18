@@ -55,7 +55,6 @@ Our current focus is strictly aligned with modern adversarial tactics and infras
 We actively deploy in highly competitive CTF environments to stress-test our methodologies against undocumented vulnerabilities and hardened targets.
 
 * **47CON CTF (2026)**
-  * **Status:** `[ ]`
   * **Execution:** Successfully compromised multi-domain environments. Key operations included advanced cryptographic analysis and intelligence extraction operations.
 * **RootedCON Yarix (2026)**
   * **Execution:** Engaged in enterprise-grade scenarios including Active Directory exploitation and Artificial Intelligence model compromise (Data Poisoning).

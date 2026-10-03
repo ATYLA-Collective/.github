@@ -8,13 +8,13 @@
 
 <p>
   <a href="https://github.com/ATYLA-Collective/CTF-writeups">
-    <img src="https://img.shields.io/badge/OPEN%20OUR%20WRITEUPS%20REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20CLICK%20TO%20OPEN%20OUR%20WRITEUPS%20REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p>
   <a href="https://ctftime.org/team/432750">
-    <img src="https://img.shields.io/badge/OPEN%20OUR%20CTFTIME%20PROFILE-C0392B?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🚀%20CLICK%20TO%20OPEN%20OUR%20CTFTIME%20PROFILE-C0392B?style=for-the-badge"/>
   </a>
 </p>
 

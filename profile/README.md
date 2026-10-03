@@ -40,6 +40,8 @@
 
 ### What we work on
 
+- **Cryptography** — attacks on implementations rather than primitives:
+  biased nonces, lattice reduction.
 - **Network protocols** — packet analysis and traffic manipulation.
 - **OSINT** — reconnaissance and attack surface mapping.
 - **Binary exploitation** — memory corruption and modern mitigations (ASLR, DEP).

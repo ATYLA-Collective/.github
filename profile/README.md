@@ -8,10 +8,13 @@
 
 <p>
   <a href="https://github.com/ATYLA-Collective/CTF-writeups">
-    <img src="https://img.shields.io/badge/Writeups-Repository-blue?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/OPEN%20OUR%20WRITEUPS%20REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p>
   <a href="https://ctftime.org/team/432750">
-    <img src="https://img.shields.io/badge/CTFtime-Profile-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/OPEN%20OUR%20CTFTIME%20PROFILE-C0392B?style=for-the-badge"/>
   </a>
 </p>
 
@@ -64,3 +67,9 @@ poisoning against a machine learning model.
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge"/>
 </p>
+
+---
+
+<div align="center">
+<i>Security through rigorous and applied verification.</i>
+</div>

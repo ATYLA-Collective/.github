@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="RUTA_DEL_LOGO" width="150"/>
+<img src="atyla.jpg" width="150"/>
 
 # ATYLA Collective
 
@@ -44,7 +44,7 @@
 
 **47CON CTF (2026)** — all challenges solved, 7600 points. Technical recognition
 from Asociación SUGUS. Categories: Web, Crypto, Pwn, OSINT...
-→ [Writeups](47CON_2026/)
+→ [Writeups](https://github.com/ATYLA-Collective/CTF-writeups/tree/main/47CON_2026)
 
 **RootedCON Yarix CTF (2026)** — Active Directory, web security, and data
 poisoning against a machine learning model.

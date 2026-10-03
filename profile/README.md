@@ -6,9 +6,14 @@
 
 ### Independent security research and CTF team
 
-<a href="URL_DE_CTFTIME">
-  <img src="https://img.shields.io/badge/CTFtime-Profile-red?style=for-the-badge"/>
-</a>
+<p>
+  <a href="https://github.com/ATYLA-Collective/CTF-writeups">
+    <img src="https://img.shields.io/badge/Writeups-Repository-blue?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://ctftime.org/team/432750">
+    <img src="https://img.shields.io/badge/CTFtime-Profile-red?style=for-the-badge"/>
+  </a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Based%20in-Spain-yellow?style=for-the-badge"/>

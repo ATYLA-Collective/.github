@@ -1,77 +1,61 @@
 <div align="center">
 
-<img src="atyla.jpg" width="150">
+<img src="RUTA_DEL_LOGO" width="150"/>
 
 # ATYLA Collective
-### Independent Security Research & CTF Operations Group
 
-<p align="center">
-  <a href="https://ctftime.org/team/432750">
-    <kbd>
-      <br>
-      &nbsp;&nbsp;&nbsp; 🚀 CLICK TO OPEN OUR CTFTIME PROFILE&nbsp;&nbsp;&nbsp;
-      <br><br>
-    </kbd>
-  </a>
+### Independent security research and CTF team
+
+<a href="URL_DE_CTFTIME">
+  <img src="https://img.shields.io/badge/CTFtime-Profile-red?style=for-the-badge"/>
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Based%20in-Spain-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Members-2-blue?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Operations-success?style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/Focus-Adversarial%20Simulation-blue?style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/Made%20In-Spain-yellow?style=for-the-badge" height="25" />
-</p>
-
-*Dedicated to applied vulnerability research, low-level system exploitation, and competitive cybersecurity environments.*
+<i>Applied vulnerability research, low-level exploitation and CTF competition.</i>
 
 </div>
 
 ---
 
-### 🛡️ Core Operators
+### Members
 
-ATYLA is composed of engineering profiles specializing in different vectors of offensive security, combining architectural understanding with applied exploitation.
-
-| Operator | Call-Sign | Primary Operations | Role / Focus |
-| :--- | :--- | :--- | :--- |
-| **Pablo Alonso Carrillo** | `PROdigy` | Offensive Security, Low-Level Architecture, OSINT | Infrastructure & Recon |
-| **Alejandro Herreros Rueda** | `REDR4VEN` | Reverse Engineering, Forensics, Malware Analysis | Exploitation & Reversing |
+| Member | Focus |
+|---|---|
+| [Pablo Alonso Carrillo](https://github.com/pablo-alonso-c) | Offensive security, cryptography, OSINT |
+| [Alejandro Herreros Rueda](https://github.com/aherreros-dev) | Reverse engineering, forensics, malware analysis |
 
 ---
 
-### 🎯 Operational Roadmap & Research Areas
+### What we work on
 
-Our current focus is strictly aligned with modern adversarial tactics and infrastructure auditing:
-
-- [x] **Network Architecture & Protocols:** Deep packet inspection and traffic manipulation.
-- [x] **OSINT & Threat Intelligence:** Advanced reconnaissance and corporate surface mapping.
-- [ ] **Binary Exploitation (Pwn):** Bypassing modern memory mitigations (ASLR, DEP).
-- [ ] **Reverse Engineering:** Binary analysis and firmware extraction.
-- [ ] **Active Directory:** Privilege escalation and lateral movement methodologies.
+- **Network protocols** — packet analysis and traffic manipulation.
+- **OSINT** — reconnaissance and attack surface mapping.
+- **Binary exploitation** — memory corruption and modern mitigations (ASLR, DEP).
+- **Reverse engineering** — binary analysis and firmware extraction.
+- **Active Directory** — privilege escalation and lateral movement.
 
 ---
 
-### 🏆 Engagement History
+### CTFs
 
-We actively deploy in highly competitive CTF environments to stress-test our methodologies against undocumented vulnerabilities and hardened targets.
+**47CON CTF (2026)** — all challenges solved, 7600 points. Technical recognition
+from Asociación SUGUS. Categories: Web, Crypto, Pwn, OSINT...
+→ [Writeups](47CON_2026/)
 
-* **47CON CTF (2026)** [Official Technical Recognition]
-  * **Execution:** 100% resolution of the target infrastructure across multiple offensive disciplines (Web, Crypto, Pwn, OSINT...).
-* **RootedCON Yarix (2026)**
-  * **Execution:** Engaged in enterprise-grade scenarios including Active Directory exploitation and Artificial Intelligence model compromise (Data Poisoning).
+**RootedCON Yarix CTF (2026)** — Active Directory, web security, and data
+poisoning against a machine learning model.
 
 ---
 
-### ⚙️ Tactical Stack
+### Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Ghidra-E4405F?style=for-the-badge&logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge"/>
 </p>
-
-<div align="center">
-  <br>
-  <i>"Security through rigorous and applied verification."</i>
-</div>
